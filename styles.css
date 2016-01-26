@@ -1,4 +1,19 @@
 img {
-width: 350px;
+width: 300px;
 
+}
+.img1 {
+    width: auto;
+}
+.boxr {
+    position: absolute;
+    left: 400px;
+    top: 10px;
+    
+}
+
+.base {
+    position: absolute;
+    top: 1050px;
+    left: 400px;
 }
